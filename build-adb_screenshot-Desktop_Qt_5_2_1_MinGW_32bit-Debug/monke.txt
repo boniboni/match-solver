@@ -1,0 +1,4 @@
+registrados: 0 - X:202 - Y: 630 - TIPO: 5 - thread: 0x00b80
+registrados: 1 - X:67 - Y: 765 - TIPO: 5 - thread: 0x00b80
+registrados: 2 - X:472 - Y: 1440 - TIPO: 5 - thread: 0x00b80
+registrados: 3 - X:607 - Y: 1035 - TIPO: 5 - thread: 0x00b80

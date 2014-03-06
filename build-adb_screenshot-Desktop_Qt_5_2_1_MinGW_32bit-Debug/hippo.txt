@@ -1,0 +1,14 @@
+registrados: 0 - X:1012 - Y: 630 - TIPO: 6 - thread: 0x0097c
+registrados: 1 - X:742 - Y: 900 - TIPO: 6 - thread: 0x0097c
+registrados: 2 - X:607 - Y: 1305 - TIPO: 6 - thread: 0x0097c
+registrados: 3 - X:337 - Y: 1575 - TIPO: 6 - thread: 0x0097c
+registrados: 4 - X:1012 - Y: 1170 - TIPO: 6 - thread: 0x0097c
+registrados: 5 - X:1012 - Y: 1440 - TIPO: 6 - thread: 0x0097c
+registrados: 6 - X:877 - Y: 630 - TIPO: 6 - thread: 0x0097c
+registrados: 7 - X:607 - Y: 900 - TIPO: 6 - thread: 0x0097c
+registrados: 8 - X:607 - Y: 630 - TIPO: 6 - thread: 0x0097c
+registrados: 9 - X:877 - Y: 1440 - TIPO: 6 - thread: 0x0097c
+registrados: 10 - X:1012 - Y: 1575 - TIPO: 6 - thread: 0x0097c
+registrados: 11 - X:337 - Y: 1170 - TIPO: 6 - thread: 0x0097c
+registrados: 12 - X:67 - Y: 1440 - TIPO: 6 - thread: 0x0097c
+registrados: 13 - X:67 - Y: 1170 - TIPO: 6 - thread: 0x0097c

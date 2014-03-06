@@ -1,0 +1,4 @@
+registrados: 0 - X:202 - Y: 1043 - TIPO: 4 - thread: 0x009d4
+registrados: 1 - X:202 - Y: 1583 - TIPO: 4 - thread: 0x009d4
+registrados: 2 - X:877 - Y: 1043 - TIPO: 4 - thread: 0x009d4
+registrados: 3 - X:877 - Y: 773 - TIPO: 4 - thread: 0x009d4

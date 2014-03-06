@@ -1,0 +1,1 @@
+registrados: 0 - X:337 - Y: 765 - TIPO: 9 - thread: 0x00414

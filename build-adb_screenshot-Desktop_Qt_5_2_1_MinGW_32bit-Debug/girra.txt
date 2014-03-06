@@ -1,0 +1,6 @@
+registrados: 0 - X:877 - Y: 1309 - TIPO: 7 - thread: 0x004bc
+registrados: 1 - X:877 - Y: 1579 - TIPO: 7 - thread: 0x004bc
+registrados: 2 - X:202 - Y: 1174 - TIPO: 7 - thread: 0x004bc
+registrados: 3 - X:742 - Y: 1039 - TIPO: 7 - thread: 0x004bc
+registrados: 4 - X:1012 - Y: 1309 - TIPO: 7 - thread: 0x004bc
+registrados: 5 - X:472 - Y: 1309 - TIPO: 7 - thread: 0x004bc

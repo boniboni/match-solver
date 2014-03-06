@@ -1,0 +1,9 @@
+registrados: 0 - X:607 - Y: 760 - TIPO: 8 - thread: 0x008cc
+registrados: 1 - X:742 - Y: 625 - TIPO: 8 - thread: 0x008cc
+registrados: 2 - X:1012 - Y: 895 - TIPO: 8 - thread: 0x008cc
+registrados: 3 - X:67 - Y: 1570 - TIPO: 8 - thread: 0x008cc
+registrados: 4 - X:337 - Y: 1030 - TIPO: 8 - thread: 0x008cc
+registrados: 5 - X:742 - Y: 760 - TIPO: 8 - thread: 0x008cc
+registrados: 6 - X:202 - Y: 760 - TIPO: 8 - thread: 0x008cc
+registrados: 7 - X:337 - Y: 895 - TIPO: 8 - thread: 0x008cc
+registrados: 8 - X:742 - Y: 1570 - TIPO: 8 - thread: 0x008cc

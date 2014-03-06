@@ -1,0 +1,7 @@
+registrados: 0 - X:1013 - Y: 1580 - TIPO: 3 - thread: 0x00bf0
+registrados: 1 - X:338 - Y: 1310 - TIPO: 3 - thread: 0x00bf0
+registrados: 2 - X:473 - Y: 635 - TIPO: 3 - thread: 0x00bf0
+registrados: 3 - X:338 - Y: 770 - TIPO: 3 - thread: 0x00bf0
+registrados: 4 - X:203 - Y: 1175 - TIPO: 3 - thread: 0x00bf0
+registrados: 5 - X:473 - Y: 1580 - TIPO: 3 - thread: 0x00bf0
+registrados: 6 - X:203 - Y: 1580 - TIPO: 3 - thread: 0x00bf0

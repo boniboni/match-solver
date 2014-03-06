@@ -1,0 +1,12 @@
+registrados: 0 - X:1012 - Y: 772 - TIPO: 2 - thread: 0x00b84
+registrados: 1 - X:472 - Y: 772 - TIPO: 2 - thread: 0x00b84
+registrados: 2 - X:1012 - Y: 1042 - TIPO: 2 - thread: 0x00b84
+registrados: 3 - X:337 - Y: 1312 - TIPO: 2 - thread: 0x00b84
+registrados: 4 - X:337 - Y: 1447 - TIPO: 2 - thread: 0x00b84
+registrados: 5 - X:202 - Y: 907 - TIPO: 2 - thread: 0x00b84
+registrados: 6 - X:337 - Y: 637 - TIPO: 2 - thread: 0x00b84
+registrados: 7 - X:202 - Y: 1447 - TIPO: 2 - thread: 0x00b84
+registrados: 8 - X:607 - Y: 1582 - TIPO: 2 - thread: 0x00b84
+registrados: 9 - X:472 - Y: 1177 - TIPO: 2 - thread: 0x00b84
+registrados: 10 - X:742 - Y: 1447 - TIPO: 2 - thread: 0x00b84
+registrados: 11 - X:472 - Y: 1042 - TIPO: 2 - thread: 0x00b84

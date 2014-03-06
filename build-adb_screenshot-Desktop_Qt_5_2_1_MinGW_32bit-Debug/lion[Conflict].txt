@@ -1,0 +1,6 @@
+registrados: 0 - X:338 - Y: 630 - TIPO: 1 - thread: 0x009e8
+registrados: 1 - X:203 - Y: 765 - TIPO: 1 - thread: 0x009e8
+registrados: 2 - X:203 - Y: 900 - TIPO: 1 - thread: 0x009e8
+registrados: 3 - X:1013 - Y: 1170 - TIPO: 1 - thread: 0x009e8
+registrados: 4 - X:743 - Y: 1305 - TIPO: 1 - thread: 0x009e8
+registrados: 5 - X:878 - Y: 765 - TIPO: 1 - thread: 0x009e8
